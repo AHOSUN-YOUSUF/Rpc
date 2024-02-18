@@ -1,4 +1,6 @@
 {
+    "workbench.coloerTheme": "Kali Terminal Dark",
+    "python.defaultInterpreterPath": "C:\\Users\\alisu\\AppData\\Local\\Programs\\Python\\Python11\\python.exe",
     "workbench.colorCustomizations": 
     {
         "[Kali Terminal Dark]":
